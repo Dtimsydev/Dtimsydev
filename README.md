@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dtimsydev
 - 👀 I’m interested in F1, Middle-Earth, Games and Music
-- 🌱 I’m currently learning HTML, CSS, JavaScript
+- 🌱 I’m currently learning Java, HTML, CSS, JavaScript
 - 📫 You can reach me with via LinkedIn www.linkedin.com/in/uumut-aydinn
 
 <!---
